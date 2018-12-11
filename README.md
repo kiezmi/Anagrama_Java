@@ -5,3 +5,5 @@
 ## The dictionary is a simple text file that contains one word per line.
 
 ## The program should handle anagram requests as quickly as possible. Consider pre-processing the dictionary to optimize the requests.
+
+###Created from IntelliJ IDEA
