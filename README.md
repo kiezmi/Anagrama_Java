@@ -1,6 +1,6 @@
-# Task description:
+# Repository description:
 
-## The task is to write a program which finds all anagrams of a given word in adictionary (the anagram must also be part of the dictionary).
+## The funtion is to write a word and finds all anagrams of a given word in a dictionary (the anagram must also be part of the dictionary).
 
 ## The dictionary is a simple text file which contains one word per line.
 
